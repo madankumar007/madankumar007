@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madankumar007
 - 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python for beginners
+- 🌱 I’m currently Entry Level Data Scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...8951579296
 
