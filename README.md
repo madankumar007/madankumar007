@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...python
 - 🌱 I’m currently Entry Level Data Scientist
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...8951579296
+- 📫 How to reach me ...8951579296/madan.saral@gmail.com
 
 <!---
 madankumar007/madankumar007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
